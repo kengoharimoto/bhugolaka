@@ -66,7 +66,51 @@ Two editions in `1_sanskr/6_sastra/8_jyot/` (added 2026-10-31; uncorrected OCR):
   He calls all of this *kapolavyāyāmaparāyaṇānām asatprajñāvilasitam*, the bad thinking of people given to exercising their cheeks.
 - **Pṛthūdaka on 21.2** (p. 523): what the gola establishes includes *meror mahattvanirākaraṇam* and *bhūgolasya samudraparidher anyo mahān paridhir nāstīti śeṣasamudrāṇāṃ mahattvanirākaraṇam*. Meru is not huge, and no great outer oceans lie beyond the one ocean round the globe.
 - **Vijñānabhāṣya (R. S. Sharma) on 21.2** (p. 233) quotes Śrīpati's Siddhāntaśekhara: *ādarśodarasannibhā bhagavatī viśvambharā kīrtitā kaiścit, kaiścana kūrmapṛṣṭhasadṛśī, kaiścit sarojākṛtiḥ | asmākaṃ tu kadambapuṣpanicayagrantheḥ samā sammatā sarvatrāsumatāṃ cayena nicitā toyasthalasthāyinām*. So the competing shapes are mirror-flat, the humped back of a tortoise, and a lotus, against the astronomers' kadamba-ball. He glosses the first as the view of *kecit paurāṇikāḥ*.
-- Brahmagupta's attacks on Āryabhaṭa's rotation and on the Jainas are in ch. 11 (vol. III); not read here.
+- **BSS 11 (Tantraparīkṣā)**, `…_vol-3.txt`:
+  - **11.3** (PDF p. 106): *bhāni catuṣpañcāśad dvau dvāv arkendavau jinoktaṃ yat | dhruvamatsyasyāvarto bhavati yato 'hnā tatas tad asat*. The Jaina 54 nakṣatras and two suns and moons are false, because the Dhruvamatsya turns once a day.
+  - **11.17** (pp. 134–135): *prāṇeneti kalāṃ bhūr yadi tarhi kuto vrajet kam adhvānam | āvartanam urvyāś cen na patanti samucchrayāḥ kasmāt*. Against Āryabhaṭa: if the earth moves one minute of arc per prāṇa, where would anyone go, and why don't tall things fall? Sudhākara and the Vijñānabhāṣya object that Brahmagupta didn't realise the atmosphere turns with the earth (*bhūvāyusahitāyā bhūmeḥ prāgbhramaṇam*), and that Parameśvara explained Āryabhaṭa's verse away.
+  - Ch. 11 also faults Āryabhaṭa's figure for the earth's diameter, but has nothing on its shape.
+
+### Bhāskara I, Mahābhāskarīya 5.4, with Govindasvāmin's Bhāṣya and Parameśvara's Siddhāntadīpikā
+`1_sanskr/6_sastra/8_jyot/bhaskara-i_mahabhaskariya_w_govindasvamin-paramesvara.txt` (added 2026-10-31; uncorrected OCR of Kuppanna Sastri 1957; PDF pp. 391–399). The root verse only gives the diameters of sun, moon and earth. **Govindasvāmin** (9th c.) uses it to argue the whole case:
+- The planets are spheres (*golākāra*), not mirror-discs (*darpaṇavṛttākāra*), as the moon's phases show. He quotes Ā Gola 5 and 37.
+- **The earth:** *kathaṃ punar bhūmes tathākāratā? … kaiścit tāvad anyathākārā mahāpramāṇā ca bhūr abhihitā | dṛśyate ca nimnonnatākāratayā*. Others describe the earth as a different shape and enormous; it also looks uneven; and how could people live on a ball? (Ā Gola 7 quoted.)
+- **Answer:** the śāstras disagree (*darśanabhedaḥ*), and the question is settled by *anyathānupapatti* (inference from what could not otherwise be).
+  - The pole star stands on the horizon at Laṅkā and at the zenith at Meru, so Meru is a quarter of the circumference from Laṅkā. The yojanas measured between cities by their latitudes confirm Āryabhaṭa's figure, *na paurāṇikadṛṣṭiyuktāni*: not the figures of the Purāṇic view.
+  - *mahocchrāyapramāṇameruparikalpanāpi na ghaṭate*: a huge Meru would hide the stars that are seen rising north of the pole.
+  - The earth's unevenness comes from the deposits that build up on it (Ā Gola 8).
+  - Everyone's "down" is the earth (Ā Gola 12, 20).
+- **Against falling:** thrown clods come back down.
+- **Against rotation:** the oceans would flood the land, mountains would be thrown off, birds could not regain their nests.
+- **Against Śeṣa and the like as support:** infinite regress. The earth stays up *svaśaktyaiva*.
+- Āryabhaṭa's number of eastward revolutions of the earth (*ku-ṅiśivuṇḷṣkhṛ prāk*) is reread as the star-wheel's motion attributed to the earth by an illusion (*mithyājñāna*), as stationary things seem to move to someone in a boat.
+- Parameśvara's Siddhāntadīpikā glosses all of this without dissent.
+
+### Vaṭeśvara, Gola 5 (Bhūgola)
+`1_sanskr/6_sastra/8_jyot/vatesvara_vatesvarasiddhanta_w_gola.txt` (added 2026-10-31; uncorrected OCR of Shukla's INSA ed.; PDF pp. 348–350). Shukla's footnotes match most verses to Lalla's Gola.
+- **1:** *karmabhir mṛdubhujāṃ śubhāśubhair vyomavāyuśikhitoyamṛṇmayaḥ | bhagrahaiḥ supariveṣṭito 'mbare nirmitas tv avanigolako 'calaḥ*.
+- **2:** the iron ball between lodestones (cf. Pañcasiddhāntikā 13.1).
+- **3, 7:** there is no "down" for the globe to fall to.
+- **5–6:** against Śeṣa, the tortoise, the mountains and the elephants as support.
+- **8:** the house-lizard on a hanging pot.
+- **10–12:** the four cities, gods and Daityas, and the kadamba simile.
+
+### Āryabhaṭa II, Mahāsiddhānta 16 (Bhuvanakośa)
+`1_sanskr/6_sastra/8_jyot/aryabhata-ii_mahasiddhanta_w_sudhakara-dvivedi.txt` (added 2026-10-31; uncorrected OCR of Dvivedin 1910; PDF pp. 240–247).
+- **4:** *vasudhā nānyādhārā tiṣṭhati gagane svaśaktyaiva*. Sudhākara notes that this author does not follow the "elder Āryabhaṭa", for whom the earth turns.
+- **5:** *kandukarūpā dhātrī sarvatrāmbhodhiparvatadvīpaiḥ*. The earth is shaped like a ball, with oceans, mountains and dvīpas all round; the pātālas are its hollows.
+- **6–8:** gods, Daityas and humans walk on the ball as we do. Laṅkā is "on top" only by convention.
+- **9–29:** the Purāṇic geography is mapped onto the globe: Jambūdvīpa as the northern half beyond the salt ocean, the other dvīpas and oceans, the varṣas and their mountains, Meru with Mandara and the rest. This is the clearest attempt in the corpus to put the Purāṇic map on a sphere.
+- **36:** a 110th part of the circumference is flat, *ataḥ sameva bhūr bhāti*.
+
+### Parameśvara, Golādīpikā
+`1_sanskr/6_sastra/8_jyot/paramesvara_goladipika.txt` (added 2026-10-31; uncorrected OCR of TSS 49, poor scan; PDF pp. 8–10).
+- **22–23:** the sun and moon are spheres. *darpaṇavṛttākāraṃ maṇḍalam icchanti ye tu te mugdhāḥ*: those who take them for discs are fools, as the moon's phases show.
+- **After 23:** *golākārā pṛthivī khe tiṣṭhati sarvadā svaśaktyaiva*. Land lies in the upper half, water in the lower.
+- **Supports and rotation:** *bhūmir anantena dhṛtety eke 'nye diggajair iti bruvate* is rejected by regress. *pūrvābhimukhaṃ bhramati kṣoṇī … iti kila vadanti kecit nābhimataṃ tad api cāryabhaṭasya*: rotation is said not to be Āryabhaṭa's own view.
+- **Size:** *bhūmer yojanamānaṃ bahukoṭimitaṃ vadanti sudhiyo 'nye | naitad gaṇakābhimataṃ*. A size of many crores of yojanas is rejected, since latitude differences give the real size.
+- **v. 33 and the next verse:** a reconciliation (*vākyāvirodha evaṃ vicintya sudhiyā sudhībhir iha neyaḥ*) that treats the large Purāṇic figures as measures over the whole globe and its inner pātālas. The OCR is poor here and this reading is tentative.
+- **Meru:** *atyunnatiś ca meror na cintyate golavidbhiḥ*. Meru's great height is not accepted, because stars rise north of the pole. This is Govindasvāmin's argument.
 
 ### Lalla, Śiṣyadhīvṛddhida (Gola)
 `1_sanskr/6_sastra/8_jyot/lalla_sisyadhivrddhida_w_mallikarjuna.txt` (added 2026-10-31; uncorrected OCR of Chatterjee 1981; verse numbers as in her edition; PDF pages of the scan).
@@ -95,10 +139,14 @@ Two editions in `1_sanskr/6_sastra/8_jyot/` (added 2026-10-31; uncorrected OCR):
 
 The sequence:
 - **Varāhamihira (6th c.)** argues only against rotation and two suns.
+- **Brahmagupta (628)** argues against rotation and the Jaina two suns (BSS 11), but not against a flat earth.
+- **Govindasvāmin (9th c.)** argues that the earth is a sphere against "others" who make it "a different shape and enormous". He sets the measured size against the Purāṇic figures and the visible stars against a huge Meru.
 - **Pṛthūdaka (9th c.)** already rejects a mirror-flat earth with doubling dvīpas and oceans, the Purāṇic scheme, alongside the Jaina doctrines, but names no source.
+- **Āryabhaṭa II** instead lays the Purāṇic dvīpas and Meru onto the ball.
 - **Lalla** leaves the flat earth anonymous (*kecana*).
 - **Śrīpati (11th c.)** sets three non-astronomical shapes against the astronomers' kadamba-ball.
 - **Bhāskara II (12th c.)** names the Purāṇa as the source of the flat earth.
+- **Parameśvara (15th c.)** rejects a size of crores of yojanas and a towering Meru, but looks for a way to make the statements agree.
 - **Munīśvara (17th c.)** quotes the Bhāgavata's own words.
 
 ## 2. Purāṇic *bhūgola*: the disc
@@ -186,7 +234,7 @@ He first reproduces Viśvanātha's egg-sphere reading. He then sets out three wa
 So among the commentators on 5.16–20, only Vaṃśīdhara confronts the Jyotiṣa sphere. Both the solution he reports and Nīlakaṇṭha's keep the small Jyotiṣa earth and put the Purāṇic numbers in a separate register.
 
 ## Gaps
-- Pañcasiddhāntikā 13, BSS 21, Lalla and Bhāskara II's Golādhyāya are now read (§1). Added to `8_jyot` on 2026-10-31 but not yet read for this question: BSS 11 (against Āryabhaṭa and the Jainas), Mahābhāskarīya, Vaṭeśvara's Gola, Āryabhaṭa II, Golādīpikā, Tantrasaṅgraha. All are uncorrected OCR.
+- All the Jyotiṣa texts added on 2026-10-31 have now been read for this question (§1). The Tantrasaṅgraha (with Śaṅkara Vāriyar) has nothing on the earth's shape. All of these files are uncorrected OCR. Quotations here are corrected by eye, and the Golādīpikā reconciliation (v. 33f.) is the least certain reading.
 - The Śrīpati verse is quoted secondhand from Sharma's Vijñānabhāṣya; the Siddhāntaśekhara itself is not in the library.
 - The "cart-shaped / mirror-disc" party in the Āryabhaṭīya commentary is unidentified.
 - The *Golādarśa/Goladarpaṇa* Vaṃśīdhara cites is unidentified; it is unclear whether it is his own earlier work.
