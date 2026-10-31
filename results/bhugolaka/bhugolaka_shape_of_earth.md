@@ -140,10 +140,10 @@ Two editions in `1_sanskr/6_sastra/8_jyot/` (added 2026-10-31; uncorrected OCR):
 The sequence:
 - **Varāhamihira (6th c.)** argues only against rotation and two suns.
 - **Brahmagupta (628)** argues against rotation and the Jaina two suns (BSS 11), but not against a flat earth.
+- **Lalla (8th c.?)** refutes a mirror-flat earth at length but leaves it anonymous (*kecana*).
 - **Govindasvāmin (9th c.)** argues that the earth is a sphere against "others" who make it "a different shape and enormous". He sets the measured size against the Purāṇic figures and the visible stars against a huge Meru.
 - **Pṛthūdaka (9th c.)** already rejects a mirror-flat earth with doubling dvīpas and oceans, the Purāṇic scheme, alongside the Jaina doctrines, but names no source.
 - **Āryabhaṭa II** instead lays the Purāṇic dvīpas and Meru onto the ball.
-- **Lalla** leaves the flat earth anonymous (*kecana*).
 - **Śrīpati (11th c.)** sets three non-astronomical shapes against the astronomers' kadamba-ball.
 - **Bhāskara II (12th c.)** names the Purāṇa as the source of the flat earth.
 - **Parameśvara (15th c.)** rejects a size of crores of yojanas and a towering Meru, but looks for a way to make the statements agree.
