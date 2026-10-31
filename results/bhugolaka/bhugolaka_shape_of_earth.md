@@ -87,8 +87,48 @@ The e-text merges Bhāskara I and Someśvara. The running commentary is taken he
 - **Abhinavagupta, ĪPVV** (`1_sanskr/4_rellit/saiva/trika/abhinavagupta_isvarapratyabhijnavivrtivimarsini_vol-3_m00022.txt:2412`): the over-proud reasoner is *svagṛhaprāṅgaṇamadhyakalpitaniḥśeṣabhūgolakamadhyadhruvakasthānavan mūḍhaḥ*. He puts the pole star over the centre of the whole earth-globe as he imagines it from his own courtyard. This seems to show awareness that the pole's position depends on latitude.
 - **Kṣemarāja, Uddyota on Svacchanda 10.511** (`1_sanskr/4_rellit/saiva/unknown_svacchandatantra_w_ksemaraja-uddyota_m00091.txt:16378`): what Jyotiṣa says of the star-wheel *bahirbhūgolam* and the positions and sizes of sun, earth and the rest holds for its own purpose, reading karma (quotes Laghujātaka 1.3 *yad upacitam anyajanmani …*), relative to the luminaries as *tejogolaka*s. The Āgama's account is the real one (*vāstavam*), so *na tena saha saṃvādavisaṃvādādicarcā kāryā*. Also on 10.323: *madhyama iti bhūgolāpekṣayā*.
 
+## 4. The Bhāgavata commentators on 5.16–20
+
+Added 2026-10-31. No commentary on Skandha 5 is in the corpus, so the source is *Śrīmadbhāgavatam … anekavyākhyāsamalaṅkṛtam*, Skandha 5, ed. Kṛṣṇaśaṅkara Śāstrī (Ahmedabad 1965), scan at archive.org `SrimadBhagavatamCanto05withMultipleSanskritCommentaries`. PDF pp. 318–474 were OCR'd with Google Vision (archive.org's own OCR is unusable) and transliterated with `sanscript`. Text in `../../data/bhp5_16-20_commentaries_ks1965_vision_{deva,iast}.txt`, page-tagged `=== PDFPAGE n ===`; KWIC in `../../data/kwic_bhp5_commentaries.txt`. Page numbers below are PDF pages; printed page = PDF page − 2.
+
+Commentaries printed on these chapters: Śrīdhara (Bhāvārthadīpikā), Vaṃśīdhara (Bhāvārthadīpikāprakāśa), Vīrarāghava (Bhāgavatacandrikā), Vijayadhvaja (Padaratnāvalī), Jīva (Kramasandarbha), Viśvanātha (Sārārthadarśinī), Śukadeva (Siddhāntapradīpa), Giridhara (Bālaprabodhinī), Bhagavatprasāda (Bhaktamanorañjanī). The Dīpinī, Subodhinī and Subodhinīprakāśa advertised for the volume do not appear on these chapters.
+
+### Most take *bhūgola* as the disc and do arithmetic
+- Śrīdhara, Vīrarāghava, Śukadeva, Giridhara and Bhagavatprasāda gloss *bhūgola* as the 50-koṭi-yojana *bhūmaṇḍala* and compute the belts. None of them raises Jyotiṣa.
+- On 5.16.5 *samavartulaḥ* is glossed *samo vartulaś ca, vartulatvena koṇābhāvāt sarvataḥ samaparimāṇaḥ* (Vīrarāghava p. 331; Bhagavatprasāda p. 335). Round means a circle without corners.
+- Vīrarāghava on 20.41ff. (p. 468) cuts the 50-koṭi *bhūmaṇḍala* from Meru into four triangular sectors, *alpamūlā vipulāgrabhāgās trikoṇākārāḥ*.
+
+### *Gola* as the egg-shell, not the earth
+- **Vijayadhvaja** on 20.38 (p. 464): *pañcāśatkoṭivistārayojanātmakasya bhūgolakasya brahmāṇḍalakṣaṇasya*. The bhūgolaka is the brahmāṇḍa.
+- **Viśvanātha** on 20.38 (p. 464): *bhūgolakasya bhūsambandhāṇḍagolakasyety arthaḥ | sūryasyeva bhuvo 'py aṇḍagolakayor madhyavartitvāt khagolam iva bhūgolam api pañcāśatkoṭiyojanapramāṇam.* The *gola* is the egg-sphere round the earth. The earth itself is 34 lakh short of 50 koṭi, which leaves 17 lakh yojanas of clearance on every side, so that Śeṣa's bearing it, the dig-gajas steadying it, its sinking in the Cākṣuṣa manvantara and Varāha's lifting it all make sense (*anyathā … aṇḍagolakalagnatve tat tat sarvam akiṃcitkaraṃ syāt*).
+
+### Harmonising Purāṇic accounts, not Jyotiṣa
+- **Vijayadhvaja** on 16.7 (p. 332): against the Viṣṇupurāṇa's (Parāśara's) Meru height of 84,000 yojanas, the Bhāgavata wins. He argues that Parāśara can err (*paśyanto 'pi na jānanti meror rūpaṃ vipaścitaḥ*; Indra calls Meru round, Bṛhaspati five-cornered) and cites: *yathā bhāgavate tūktaṃ bhauvanaṃ kośalakṣaṇam | tasyāvirodhato yojyaṃ sarvagranthāntarasthitam …*
+- **Jīva**, Kramasandarbha on 16.6–29 (p. 332): *ṭīkādarśitā matabhedāḥ sṛṣṭibhedena jñeyāḥ*. The disagreements the commentators show come from different creations.
+- **Jyotiṣa appears only as a calendar term** on 5.17.1 (pp. 350–351): Vaṃśīdhara and Jīva take *yuga* as the 5-year Jyotiṣa yuga, Vaṃśīdhara quoting Śrīpati, *yugaṃ bhaved vatsarapañcakena*.
+
+### Vaṃśīdhara on 5.20.38: the one real engagement (pp. 460–462)
+He first reproduces Viśvanātha's egg-sphere reading. He then sets out three ways of reconciling the Purāṇa with Jyotiṣa.
+
+1. **Nīlakaṇṭha on the Mahābhārata, Bhīṣmaparvan**, quoted: *atreyaṃ śāstrānubhavayor avirodhena bhūkalpanā pratibhāti.*
+   - The earth is a square with sides of 4650 yojanas. Its diagonal is worked out *śulvaśāstroktarītyā*, with the corners at the sea-junctions; the southern one is Rāmasetu.
+   - The jyotirvids' circumference of 4967 yojanas (*saptāṅgacandrābdhi*) roughly corresponds to this. The difference of 317 is put down to different *hasta* standards.
+   - The sun circles the tall Meru, so *na bauddhābhimataṃ sūryadvayaṃ kalpyam*. Nīlakaṇṭha also says *anyat sarvaṃ yuktyaviruddhaṃ jyotirvinmatam evātrānusartavyam*.
+   - The Purāṇa's 50-koṭi bhūgola is either *acintya* (*acintyāḥ khalu ye bhāvā na tāṃs tarkeṇa sādhayet*) or to be scaled down by 1/20. On that scale Bhāratavarṣa becomes a triangle, which fits *pṛthivī trikoṇeti lokapravādaḥ* and the prime meridian (*purī rakṣasāṃ … kurukṣetram eṣā bhuvo madhyarekhā*).
+2. **His own: yojanas of different sizes.** The *hasta* varies (child, adult; Kātyāyana's alternatives), so *jyotiḥśāstrapurāṇetihāsānāṃ virodho yathākathaṃcit parihṛtaḥ syāt*. Neither side overrides the other: Jyotiṣa is *vedacakṣus*, and Vyāsa is Nārāyaṇa. Vyāsa only seems to contradict Jyotiṣa, *asurajanakartṛkaśāstrapravṛttisaṃkocārthaṃ*, to curb a śāstra authored by an asura (presumably Maya's Sūryasiddhānta). Otherwise Vyāsa would be blind to the Veda.
+3. **The *Golādarśa* solution** (*asya samādhir golādarśe vihitaḥ*; later *goladarpaṇe*). Its question is why the Bhāgavata's Jambūdvīpa is 1 lakh yojanas when Jyotiṣa's whole earth is 5000.
+   - **Two earths:** *pṛthivyā ākāradvayam asti — eko mahāparimāṇako viśeṣākāraḥ, dvitīyo jyotiḥśāstroktaḥ svalpaparimāṇako golākāra eva.*
+   - **BhP 5.16.4 names both:** *bhūgolakapadena jyotiḥśāstrokto golākāro mārttiko 'ṇḍaḥ | viśeṣapadena maṇḍalākāraḥ purāṇokto hiraṇmayo 'ṇḍaḥ*. Support is drawn from *tato viśeṣaṃ pratipadya* (Skandha 2) and *etad aṇḍaṃ viśeṣākhyam* (Skandha 3).
+   - **Proof that the Bhāgavata itself knows the globe:** Śeṣa holds the earth *siddhārtha iva* (5.25.12, a mustard seed, hence round); *prekṣayitvā bhuvo golam* (Kardama's tour, Skandha 3); *sādridvīpābdhibhūgolam* (10.8.37).
+   - **Where the big earth is:** above the nakṣatra-kakṣā, as a magnified reflection (*pratibimbarūpā*). A fire-sphere or water-sphere of 5000 yojanas works *dūrakāntavat* (apparently a telescope), making the small look large. He cites the Puliśasiddhānta, *bhūvātodvayor yoge jalagolo 'sti kācavat*, and Sūryasiddhānta, *atyāsannatayā tena grīṣme tīvrāḥ karā raveḥ*. The 25-koṭi sun of 5.20.43 is the reflected sun, and 5.21.1–2 is reread on this model (*etena bhūgolakendreṇa …*).
+   - He ends: *etadvirodhaparihāro yaḥ pūrvam eva mayālekhi sa eva samīcīnaḥ pratibhāti*. He prefers his own earlier solution.
+
+So among the commentators on 5.16–20, only Vaṃśīdhara confronts the Jyotiṣa sphere. Both the solution he reports and Nīlakaṇṭha's keep the small Jyotiṣa earth and put the Purāṇic numbers in a separate register.
+
 ## Gaps
 - Not in the corpus: Brahmagupta's Golādhyāya (only the mathematical chapters are present), Lalla's Śiṣyadhīvṛddhida, Pañcasiddhāntikā, Siddhāntaśiromaṇi Golādhyāya. These are the main places for the anti-Jaina and anti-Purāṇic polemics.
 - The "cart-shaped / mirror-disc" party in the Āryabhaṭīya commentary is unidentified.
-- Bhāgavata commentators on 5.16–20 not checked for how they handle the conflict with Jyotiṣa.
+- The *Golādarśa/Goladarpaṇa* Vaṃśīdhara cites is unidentified; it is unclear whether it is his own earlier work.
+- Viśvanātha promises the *upapatti* for the 25-koṭi sun "later" (on 5.20.43); 5.21–22 were not OCR'd.
+- The Nīlakaṇṭha passage should be checked against his Bhāratabhāvadīpa on the Bhīṣmaparvan in the corpus.
 - *Kūrmapṛṣṭha*: the scorched earth at pralaya "like a tortoise's back" (MBh 12.225.2, ViP 6.3.23, Vāyu 2.38.151, BndP 3.1.147, KūrmP 2.43.23) describes a bare surface, not the earth's cosmological shape; left aside.
