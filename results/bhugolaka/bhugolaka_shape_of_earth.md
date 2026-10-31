@@ -41,6 +41,33 @@ The e-text merges Bhāskara I and Someśvara. The running commentary is taken he
 - 12.34–35: *bhūgolamadhyago merur ubhayatra vinirgataḥ*. Meru runs through the globe and comes out at both poles: gods above, asuras below. A synthesis with Purāṇic Meru.
 - 12.53–54: *sarvatraiva mahīgole svasthānam upari sthitam | manyante khe yato golas tasya kvordhvaṃ kva vādhaḥ || alpakāyatayā lokāḥ svasthānāt sarvatomukham | paśyanti vṛttām apy etāṃ cakrākārāṃ vasundharām.* People see the round earth as a flat disc because they are small. An explicit account of apparent flatness.
 
+### Varāhamihira, Pañcasiddhāntikā 13
+Two editions in `1_sanskr/6_sastra/8_jyot/` (added 2026-10-31; uncorrected OCR): `varahamihira_pancasiddhantika_ed-pingree.txt` (Neugebauer–Pingree 1970, PDF pp. 110–111, with Pingree's translation) and `varahamihira_pancasiddhantika_w_sudhakara-dvivedi.txt` (Thibaut–Dvivedi 1889, PDF pp. 90–91). Text as in Pingree, corrected from the OCR:
+
+- **13.1:** *pañcamahābhūtamayas tārāgaṇapañjare mahīgolaḥ | khe 'yaskāntāntaḥstho loha ivāvasthito vṛttaḥ*. The earth-globe of the five elements stands in the cage of stars like a round piece of iron held between lodestones.
+- **13.2:** *tarunaganagarārāmasaritsamudrādibhiś citaḥ sarvaḥ | vibudhanilayaḥ sumerus tanmadhye 'dhaḥ sthitā daityāḥ*. Covered all over with trees, mountains, towns and seas; Sumeru, the gods' home, in the middle; the Daityas below.
+- **13.3–4:** relativity of up and down. The Asuras appear inverted to the gods like reflections at a water's edge, and they think the gods are below. Fire rises and heavy things fall *asurāṇāṃ tadvad evādhaḥ*.
+- **13.6–7:** *bhramati bhramasthiteva kṣitir ity apare vadanti noḍugaṇaḥ | yady evaṃ śyenādyā na khāt punaḥ svanilayam upeyuḥ*. Against Āryabhaṭa's rotating earth: hawks could not return to their nests, and flags would always stream west.
+- **13.8:** against the two suns (the Jaina view), from the Dhruva.
+- There is no polemic against a flat earth here, only against rotation and two suns. Pingree's apparatus notes that 13.1–4 are quoted by Utpala on Bṛhatsaṃhitā 2, and 13.1 by Pṛthūdaka on BSS 21 and by Nīlakaṇṭha.
+
+### Brahmagupta, Brāhmasphuṭasiddhānta 21 (Golādhyāya)
+`1_sanskr/6_sastra/8_jyot/brahmagupta_brahmasphutasiddhanta_w_vasana-vijnana_vol-4.txt` (added 2026-10-31; uncorrected OCR of R. S. Sharma 1966, vol. IV). Ch. 21 is printed twice: with Sudhākara's bhāṣya, the editor's Vijñānabhāṣya and Hindi (PDF pp. 233ff.), and in an appendix with **Pṛthūdakasvāmin's Vāsanābhāṣya** (PDF pp. 520ff.).
+
+- **21.2:** *śaśibudhasitārkakujaguruśanikakṣāveṣṭito bhakakṣāntaḥ | bhūgolaḥ sattvānāṃ śubhāśubhaiḥ karmabhir upāttaḥ*. The bhūgola is wrapped in the planetary orbits inside the star-sphere, acquired by beings through their good and bad karma.
+- **21.3:** *khe bhūgolas tadupari merau devāḥ sthitās tale daityāḥ*. The globe is in space, the gods on Meru at the top, the Daityas at the bottom, each with their own pole overhead.
+- **21.9:** Avantī lies north of Laṅkā at 1/15 of the earth's circumference.
+- **Pṛthūdaka on 21.1** (p. 522) explains why the gola is needed by listing *nirupapattika* (unfounded) doctrines:
+  - eclipses caused by Rāhu;
+  - *darpaṇodarāyāṃ pṛthivyāṃ samudradvīpāvasthitā parataḥ parato dviguṇaḥ*, a mirror-flat earth with oceans and dvīpas each double the last;
+  - a huge square Meru (*mahāpramāṇacaturaśrameru*);
+  - the Jina-śāstra's two suns, two moons and 54 nakṣatras.
+
+  He calls all of this *kapolavyāyāmaparāyaṇānām asatprajñāvilasitam*, the bad thinking of people given to exercising their cheeks.
+- **Pṛthūdaka on 21.2** (p. 523): what the gola establishes includes *meror mahattvanirākaraṇam* and *bhūgolasya samudraparidher anyo mahān paridhir nāstīti śeṣasamudrāṇāṃ mahattvanirākaraṇam*. Meru is not huge, and no great outer oceans lie beyond the one ocean round the globe.
+- **Vijñānabhāṣya (R. S. Sharma) on 21.2** (p. 233) quotes Śrīpati's Siddhāntaśekhara: *ādarśodarasannibhā bhagavatī viśvambharā kīrtitā kaiścit, kaiścana kūrmapṛṣṭhasadṛśī, kaiścit sarojākṛtiḥ | asmākaṃ tu kadambapuṣpanicayagrantheḥ samā sammatā sarvatrāsumatāṃ cayena nicitā toyasthalasthāyinām*. So the competing shapes are mirror-flat, the humped back of a tortoise, and a lotus, against the astronomers' kadamba-ball. He glosses the first as the view of *kecit paurāṇikāḥ*.
+- Brahmagupta's attacks on Āryabhaṭa's rotation and on the Jainas are in ch. 11 (vol. III); not read here.
+
 ### Lalla, Śiṣyadhīvṛddhida (Gola)
 `1_sanskr/6_sastra/8_jyot/lalla_sisyadhivrddhida_w_mallikarjuna.txt` (added 2026-10-31; uncorrected OCR of Chatterjee 1981; verse numbers as in her edition; PDF pages of the scan).
 
@@ -66,7 +93,13 @@ The e-text merges Bhāskara I and Someśvara. The running commentary is taken he
 - **vv. 11–12** (p. 47): against the flat earth: *yadi samā mukurodarasannibhā bhagavatī dharaṇī …*. If the earth were flat, people would see the sun at all times, as the gods do. If Meru caused night, Meru would be visible, and the sun would always rise in the north. The Vāsanā names the opponent: *purāṇe bhūḥ samādarśodarasannibhā kathyate | tanmadhye meruḥ …* and summarises the dvīpa scheme. Munīśvara's Marīci quotes the Bhāgavata itself as the Purāṇic view (BhP 5.16.5 *samavartulo yathā puṣkarapatram*; 5.20.35 *kāñcany anyādarśatalopamā*) and refutes it from the varying length of day and night.
 - **v. 13** (p. 52): why the earth looks flat: *samo yataḥ syāt paridheḥ śatāṃśaḥ pṛthvī ca pṛthvī nitarāṃ tanīyān | naraś ca tatpṛṣṭhagatasya kṛtsnā sameva tasya pratibhāty ataḥ sā*. A hundredth of a circumference is flat to the eye, the earth is very large and man very small. The Marīci quotes Sūryasiddhānta 12.54 (*alpakāyatayā lokāḥ … cakrākārāṃ vasundharām*).
 
-So by Bhāskara II's time (12th c.) the flat, mirror-like earth is explicitly identified as the Purāṇic view, and his 17th-century commentator Munīśvara identifies it with the Bhāgavata's text. Lalla still leaves it anonymous (*kecana*).
+The sequence:
+- **Varāhamihira (6th c.)** argues only against rotation and two suns.
+- **Pṛthūdaka (9th c.)** already rejects a mirror-flat earth with doubling dvīpas and oceans, the Purāṇic scheme, alongside the Jaina doctrines, but names no source.
+- **Lalla** leaves the flat earth anonymous (*kecana*).
+- **Śrīpati (11th c.)** sets three non-astronomical shapes against the astronomers' kadamba-ball.
+- **Bhāskara II (12th c.)** names the Purāṇa as the source of the flat earth.
+- **Munīśvara (17th c.)** quotes the Bhāgavata's own words.
 
 ## 2. Purāṇic *bhūgola*: the disc
 
@@ -153,7 +186,8 @@ He first reproduces Viśvanātha's egg-sphere reading. He then sets out three wa
 So among the commentators on 5.16–20, only Vaṃśīdhara confronts the Jyotiṣa sphere. Both the solution he reports and Nīlakaṇṭha's keep the small Jyotiṣa earth and put the Purāṇic numbers in a separate register.
 
 ## Gaps
-- Lalla and Bhāskara II's Golādhyāya are now read (§1). Added to `8_jyot` on 2026-10-31 but not yet read for this question: the full Brāhmasphuṭasiddhānta (R. S. Sharma ed.; its Golādhyāya is ch. 21), the Pañcasiddhāntikā (ch. 13), Mahābhāskarīya, Vaṭeśvara's Gola, Āryabhaṭa II, Golādīpikā, Tantrasaṅgraha. All are uncorrected OCR.
+- Pañcasiddhāntikā 13, BSS 21, Lalla and Bhāskara II's Golādhyāya are now read (§1). Added to `8_jyot` on 2026-10-31 but not yet read for this question: BSS 11 (against Āryabhaṭa and the Jainas), Mahābhāskarīya, Vaṭeśvara's Gola, Āryabhaṭa II, Golādīpikā, Tantrasaṅgraha. All are uncorrected OCR.
+- The Śrīpati verse is quoted secondhand from Sharma's Vijñānabhāṣya; the Siddhāntaśekhara itself is not in the library.
 - The "cart-shaped / mirror-disc" party in the Āryabhaṭīya commentary is unidentified.
 - The *Golādarśa/Goladarpaṇa* Vaṃśīdhara cites is unidentified; it is unclear whether it is his own earlier work.
 - Viśvanātha promises the *upapatti* for the 25-koṭi sun "later" (on 5.20.43); 5.21–22 were not OCR'd.
