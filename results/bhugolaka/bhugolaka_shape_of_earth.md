@@ -233,11 +233,34 @@ He first reproduces Viśvanātha's egg-sphere reading. He then sets out three wa
 
 So among the commentators on 5.16–20, only Vaṃśīdhara confronts the Jyotiṣa sphere. Both the solution he reports and Nīlakaṇṭha's keep the small Jyotiṣa earth and put the Purāṇic numbers in a separate register.
 
+### 5.21–22 (the sun's course and the planets)
+Same edition, PDF pp. 473–514 (OCR'd 2026-10-31; `../../data/bhp5_21-22_commentaries_ks1965_vision_{deva,iast}.txt`; pp. 470–472 are in the 5.16–20 file).
+
+- **5.21.2** *etena hi divo maṇḍalamānaṃ tadvida upadiśanti yathā dvidalayor niṣpāvādīnām* (pp. 473–475):
+  - **Vaṃśīdhara:** *etena bhūgolakamānena | tadvidaḥ jyotiḥsiddhāntajñāḥ*. The "knowers" are the astronomers.
+  - **Viśvanātha:** *bhūgolakakhagolakayor vistāreṇa tulyam eva mānam*. Earth-sphere and sky-sphere have the same extent, like the two halves of a pea, with 2 lakh yojanas of antarikṣa between them. This is all he says here. The *upapatti* for the 25-koṭi sun that he promised on 5.20.43 is not given in 5.21.
+- **5.21.12, the sun's speed** (34 lakh 800 yojanas per muhūrta round Mānasottara; p. 484). **Jīva's Kramasandarbha**, reproduced almost word for word by Vaṃśīdhara (p. 483), is the second place in these chapters where a commentator faces Jyotiṣa directly:
+
+  > *yat tu jyotiḥśāstrarītyā tattaddeśe ravyudayakramavicāreṇa raviparikramaṇīyaṃ maṇḍalam idaṃ svalpam eva pratīyate tat khalu calatā vidūrasya svalpasyāpi vṛkṣādeḥ samasūtratā bahuladeśena naiva tyaktuṃ śakyate tathātidūraṃ vyomagatenāpi raviṇā svalpabhūmisamasūtrateti ravicalanasya svalpatvavyavahārān na viruddhaṃ na ca dṛṣṭibhramamātram idaṃ chāyāpi dṛśyamānatadgatimāndyam anukaroti.*
+
+  By the Jyotiṣa method, timing sunrise from place to place, the sun's circuit comes out small. Jīva's answer is a parallax argument. A traveller moving a long way stays in line with a small but very distant tree, and in the same way the very distant sun, though it covers an immense circuit, stays above a small stretch of land. So the small Jyotiṣa figure is a way of describing the sun's motion. It does not contradict the Purāṇa, and it is not a mere illusion either, since shadows on the ground also follow the apparent slowness. On this view Jyotiṣa's small circuit is how the Purāṇa's huge one looks from the ground.
+- **5.21.7 and following, the length of day and night** (p. 485): the commentary printed under **Giridhara's** heading adopts the Jyotiṣa account (unequal rising times of the signs) as *jyotiḥśāstraprasiddhā prakriyā purāṇāviruddhatvād atrāpy anusandheyā*. It is "not contrary to the Purāṇa" and backed by Viṣṇupurāṇa 2.8.
+- **5.22.1–2, the sun's two motions** (pp. 493–496): the king asks how the sun can circle Meru clockwise while moving through the signs the other way. The answer, the potter's wheel with ants walking against its turn, is the Bhāgavata's own. The commentators (Śrīdhara, Vīrarāghava, Viśvanātha, the *anvaya* commentary) gloss it as *cakravaśāt svataś ca gatidvayam aviruddham* without bringing in Jyotiṣa. Vijayadhvaja records a view (*ity eke*) that the signs move behind the sun "like an object and its reflection".
+- **5.22, planetary distances above the earth** (in lakhs of yojanas): taken at face value. Jyotiṣa appears only for the Abhijit nakṣatra (Vaṃśīdhara, Viśvanātha: *jyotiḥśāstre proktam*) and for the number of ketus.
+
+So across 5.16–22, the commentators deal with Jyotiṣa in three ways:
+- **Vaṃśīdhara on 5.20.38** reconciles by two earths or by variable yojanas.
+- **Jīva (and Vaṃśīdhara after him) on 5.21.12** treats Jyotiṣa's small solar circuit as how the Purāṇa's distant sun looks from the ground.
+- **Giridhara on 5.21.7** borrows the Jyotiṣa day-length method as non-contradictory.
+
+None of them adopts the spherical earth itself, except as Vaṃśīdhara's second, "small" earth.
+
 ## Gaps
 - All the Jyotiṣa texts added on 2026-10-31 have now been read for this question (§1). The Tantrasaṅgraha (with Śaṅkara Vāriyar) has nothing on the earth's shape. All of these files are uncorrected OCR. Quotations here are corrected by eye, and the Golādīpikā reconciliation (v. 33f.) is the least certain reading.
 - The Śrīpati verse is quoted secondhand from Sharma's Vijñānabhāṣya; the Siddhāntaśekhara itself is not in the library.
 - The "cart-shaped / mirror-disc" party in the Āryabhaṭīya commentary is unidentified.
 - The *Golādarśa/Goladarpaṇa* Vaṃśīdhara cites is unidentified; it is unclear whether it is his own earlier work.
-- Viśvanātha promises the *upapatti* for the 25-koṭi sun "later" (on 5.20.43); 5.21–22 were not OCR'd.
+- Viśvanātha promises the *upapatti* for the 25-koṭi sun "later" (on 5.20.43), but 5.21–22 (now read) do not give it. It may come in 5.23 (śiśumāra) or later; not checked.
+- The p. 485 passage is assigned to Giridhara from the nearest preceding heading in the OCR; check the scan.
 - The Nīlakaṇṭha passage should be checked against his Bhāratabhāvadīpa on the Bhīṣmaparvan in the corpus.
 - *Kūrmapṛṣṭha*: the scorched earth at pralaya "like a tortoise's back" (MBh 12.225.2, ViP 6.3.23, Vāyu 2.38.151, BndP 3.1.147, KūrmP 2.43.23) describes a bare surface, not the earth's cosmological shape; left aside.
