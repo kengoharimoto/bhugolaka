@@ -41,6 +41,33 @@ The e-text merges Bhāskara I and Someśvara. The running commentary is taken he
 - 12.34–35: *bhūgolamadhyago merur ubhayatra vinirgataḥ*. Meru runs through the globe and comes out at both poles: gods above, asuras below. A synthesis with Purāṇic Meru.
 - 12.53–54: *sarvatraiva mahīgole svasthānam upari sthitam | manyante khe yato golas tasya kvordhvaṃ kva vādhaḥ || alpakāyatayā lokāḥ svasthānāt sarvatomukham | paśyanti vṛttām apy etāṃ cakrākārāṃ vasundharām.* People see the round earth as a flat disc because they are small. An explicit account of apparent flatness.
 
+### Lalla, Śiṣyadhīvṛddhida (Gola)
+`1_sanskr/6_sastra/8_jyot/lalla_sisyadhivrddhida_w_mallikarjuna.txt` (added 2026-10-31; uncorrected OCR of Chatterjee 1981; verse numbers as in her edition; PDF pages of the scan).
+
+- **Bhuvanakośa (adhikāra 17), vv. 5–8** (PDF pp. 237–238):
+  - Up and down are relative: *sarveṣām upari nabhas tadadho bhūr upari te bhūmeḥ* (5).
+  - The kadamba image again: *tarunaganagarasurāsuranarair ayaṃ kesarair iva samantāt | golaḥ kādambo madhukarībhir iva sarvataḥ pracitaḥ* (6).
+  - People on the underside are like a house-lizard running along the beams of a ceiling (*yathā gṛhagodhikā*, 7).
+  - Fire rises and heavy things fall toward the ground, *na talam asti bhuvaḥ kva patatv asau*: the earth has no ground to fall to (8).
+- **Mithyājñānādhyāya (adhikāra 20)**, a whole chapter refuting wrong views (PDF pp. 256–263).
+  - v. 6 lists the views about the earth: *amitām avanīṃ pracakṣate susamāṃ kecana darpaṇopamām | apare bahuyojanām imāṃ salilasthām atha yānapātravat*. Some say it is boundless, or perfectly flat like a mirror; others that it is many yojanas wide, or floats on water like a ship.
+  - vv. 30–33: a boundless or vast earth contradicts observation; Avanti lies 1/16 of the circumference from Laṅkā.
+  - **vv. 34–37 refute the flat earth:** *yadi darpaṇavat samā mahī* (34). On a mirror-flat earth, why would rain fall instead of running off sideways? A hundredth of the circumference looks straight (35). On a flat earth, tall trees far away would never sink out of sight (36). The earth only looks *susamā darpaṇavat* because the sky seems to meet it all round at the horizon (37).
+  - v. 38: against the earth's falling. vv. 39–41: against its resting on water, or on a tortoise or the like (*kamaṭhādibhir uddhṛtā mahī … kena dhṛtāḥ?*).
+  - **vv. 42–43 against rotation:** birds could not find their nests, arrows would land toward the ocean, clouds would drift west.
+  - v. 44: against two suns and moons (the Jaina view).
+
+### Bhāskara II, Siddhāntaśiromaṇi, Golādhyāya, Bhuvanakośa
+`1_sanskr/6_sastra/8_jyot/bhaskara_siddhantasiromani_goladhyaya_w_vasana-marici_pt-1.txt` (added 2026-10-31; uncorrected OCR of the Ānandāśrama ed. with Bhāskara's Vāsanā and Munīśvara's Marīci; PDF pages of the scan).
+
+- **vv. 2–3** (p. 33): *bhūmeḥ piṇḍaḥ śaśāṅkajñakaviravikujejyārkinakṣatrakakṣāvṛttair vṛto vṛtaḥ san mṛdanilasalilavyomatejomayo 'yam | nānyādhāraḥ svaśaktyaiva viyati niyataṃ tiṣṭhati …*, and again *kadambakusumagranthiḥ kesaraprasarair iva*. The Vāsanā glosses *vṛtto vartulākāraḥ*.
+- **vv. 5–6** (p. 37): the earth's own power holds it, as heat belongs to fire. **Attraction:** *ākṛṣṭiśaktiś ca mahī tayā yat khasthaṃ guru svābhimukhaṃ svaśaktyā | ākṛṣyate tat patatīva bhāti same samantāt kva patatv iyaṃ khe*. The Marīci adds Sūryasiddhānta 12.32.
+- **vv. 7–10** (pp. 43–46): the Bauddhas say the unsupported earth falls forever, unnoticed, as someone in a moving boat does not notice the boat moving. The Jainas posit two suns, two moons and double nakṣatras around a pillar-like Meru. Bhāskara answers the Jainas with the turning of the Dhruvamatsya (10).
+- **vv. 11–12** (p. 47): against the flat earth: *yadi samā mukurodarasannibhā bhagavatī dharaṇī …*. If the earth were flat, people would see the sun at all times, as the gods do. If Meru caused night, Meru would be visible, and the sun would always rise in the north. The Vāsanā names the opponent: *purāṇe bhūḥ samādarśodarasannibhā kathyate | tanmadhye meruḥ …* and summarises the dvīpa scheme. Munīśvara's Marīci quotes the Bhāgavata itself as the Purāṇic view (BhP 5.16.5 *samavartulo yathā puṣkarapatram*; 5.20.35 *kāñcany anyādarśatalopamā*) and refutes it from the varying length of day and night.
+- **v. 13** (p. 52): why the earth looks flat: *samo yataḥ syāt paridheḥ śatāṃśaḥ pṛthvī ca pṛthvī nitarāṃ tanīyān | naraś ca tatpṛṣṭhagatasya kṛtsnā sameva tasya pratibhāty ataḥ sā*. A hundredth of a circumference is flat to the eye, the earth is very large and man very small. The Marīci quotes Sūryasiddhānta 12.54 (*alpakāyatayā lokāḥ … cakrākārāṃ vasundharām*).
+
+So by Bhāskara II's time (12th c.) the flat, mirror-like earth is explicitly identified as the Purāṇic view, and his 17th-century commentator Munīśvara identifies it with the Bhāgavata's text. Lalla still leaves it anonymous (*kecana*).
+
 ## 2. Purāṇic *bhūgola*: the disc
 
 - **Bhāgavata 5.16.4** introduces the cosmography as *bhū-golaka-viśeṣaṃ nāma-rūpa-māna-lakṣaṇato vyākhyāsyāmaḥ*. What follows is flat:
@@ -126,7 +153,7 @@ He first reproduces Viśvanātha's egg-sphere reading. He then sets out three wa
 So among the commentators on 5.16–20, only Vaṃśīdhara confronts the Jyotiṣa sphere. Both the solution he reports and Nīlakaṇṭha's keep the small Jyotiṣa earth and put the Purāṇic numbers in a separate register.
 
 ## Gaps
-- Not in the corpus: Brahmagupta's Golādhyāya (only the mathematical chapters are present), Lalla's Śiṣyadhīvṛddhida, Pañcasiddhāntikā, Siddhāntaśiromaṇi Golādhyāya. These are the main places for the anti-Jaina and anti-Purāṇic polemics.
+- Lalla and Bhāskara II's Golādhyāya are now read (§1). Added to `8_jyot` on 2026-10-31 but not yet read for this question: the full Brāhmasphuṭasiddhānta (R. S. Sharma ed.; its Golādhyāya is ch. 21), the Pañcasiddhāntikā (ch. 13), Mahābhāskarīya, Vaṭeśvara's Gola, Āryabhaṭa II, Golādīpikā, Tantrasaṅgraha. All are uncorrected OCR.
 - The "cart-shaped / mirror-disc" party in the Āryabhaṭīya commentary is unidentified.
 - The *Golādarśa/Goladarpaṇa* Vaṃśīdhara cites is unidentified; it is unclear whether it is his own earlier work.
 - Viśvanātha promises the *upapatti* for the 25-koṭi sun "later" (on 5.20.43); 5.21–22 were not OCR'd.
