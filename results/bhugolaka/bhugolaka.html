@@ -1,0 +1,208 @@
+<title>Bhūgolaka</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: single reading column on an armillary-sphere motif; loci in mono margins under each citation */
+:root{
+  --paper:#f2f3f6; --ink:#1d2233; --muted:#5b6275; --rule:#d5d8e1;
+  --brass:#9a6a12; --sky:#2c3e7a; --quote-bg:#e7e9f0; --disc:#3f7a5c;
+  --f-text:"Gentium Book Plus","Gentium Plus","Noto Serif",Georgia,serif;
+  --f-label:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#12151f; --ink:#e3e5ec; --muted:#9aa1b5; --rule:#2c3244;
+  --brass:#d9a441; --sky:#8fa6ec; --quote-bg:#1b2030; --disc:#79c29b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#12151f; --ink:#e3e5ec; --muted:#9aa1b5; --rule:#2c3244;
+  --brass:#d9a441; --sky:#8fa6ec; --quote-bg:#1b2030; --disc:#79c29b; color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-text);font-size:18px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:40px 64px}
+main{max-width:44rem;margin:0 auto;display:flex;flex-direction:column;gap:2.4rem}
+h1,h2,h3{text-wrap:balance;line-height:1.2;margin:0}
+h1{font-size:clamp(2.4rem,7vw,3.6rem);font-weight:700;font-style:italic;letter-spacing:-.01em}
+h2{font-size:1.55rem;font-weight:700;padding-top:.6rem;border-top:1px solid var(--rule)}
+h3{font-size:1.12rem;font-weight:700}
+p{margin:0}
+.eyebrow,.label{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.08em;font-size:.74rem;color:var(--muted);font-weight:600}
+header{display:flex;flex-direction:column;gap:.8rem}
+.lede{font-size:1.15rem}
+.answer{border-left:3px solid var(--brass);padding:.2rem 0 .2rem 1rem;display:flex;flex-direction:column;gap:.6rem}
+section{display:flex;flex-direction:column;gap:1.1rem}
+.cite{display:flex;flex-direction:column;gap:.45rem}
+blockquote{margin:0;background:var(--quote-bg);padding:.8rem 1rem;border-radius:4px;font-style:italic}
+blockquote .v{display:block}
+.loc{font-family:var(--f-mono);font-size:.74rem;color:var(--muted);overflow-wrap:anywhere}
+.skt{font-style:italic}
+ul,ol{margin:0;padding-left:1.3rem;display:flex;flex-direction:column;gap:.45rem}
+.figure{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.figure figure{margin:0;display:flex;flex-direction:column;gap:.4rem;min-width:0}
+.figure svg{width:100%;height:auto;max-width:100%}
+.figure figcaption{font-size:.92rem;color:var(--muted)}
+.tag{font-family:var(--f-label);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;font-weight:600}
+.tag.sphere{color:var(--sky)} .tag.disc{color:var(--disc)}
+.views li::marker{font-family:var(--f-label);color:var(--brass)}
+.note{font-size:.95rem;color:var(--muted)}
+footer{font-size:.9rem;color:var(--muted);border-top:1px solid var(--rule);padding-top:1rem;display:flex;flex-direction:column;gap:.4rem}
+code{font-family:var(--f-mono);font-size:.82em}
+@media (max-width:520px){body{font-size:17px}.figure{grid-template-columns:1fr}}
+</style>
+
+<main>
+<header>
+  <span class="eyebrow">Corpus survey · E-texts 1_sanskr · 31 October 2026</span>
+  <h1>Bhūgolaka</h1>
+  <p class="lede">What the word means across the library, and who held that the earth is a globe.</p>
+  <div class="answer">
+    <p><strong>Jyotiṣa did, explicitly.</strong> From Āryabhaṭa on, the earth is a sphere, and the commentary argues against disc- and cart-shaped earths.</p>
+    <p><strong>The word alone proves nothing.</strong> In the Bhāgavata and the Purāṇas that follow it, <span class="skt">bhū-gola</span> names the flat disc of dvīpas and oceans.</p>
+    <p><strong>The globe travels.</strong> Kumārila, the Nyāya-Vaiśeṣikas, the Mokṣopāya/Yogavāsiṣṭha, Abhinavagupta and Kṣemarāja all use it.</p>
+  </div>
+</header>
+
+<div class="figure" aria-label="Two pictures of the bhūgola">
+  <figure>
+    <svg viewBox="0 0 220 200" role="img" aria-label="Sphere with observers standing all round, each with up pointing outward">
+      <circle cx="110" cy="100" r="88" fill="none" stroke="var(--rule)" stroke-dasharray="2 4"/>
+      <circle cx="110" cy="100" r="52" fill="var(--quote-bg)" stroke="var(--sky)" stroke-width="2"/>
+      <ellipse cx="110" cy="100" rx="52" ry="16" fill="none" stroke="var(--sky)" stroke-width=".8" opacity=".6"/>
+      <g stroke="var(--brass)" stroke-width="1.6" fill="var(--brass)">
+        <g transform="rotate(0 110 100)"><line x1="110" y1="48" x2="110" y2="26"/><path d="M106 30 L110 22 L114 30 Z"/></g>
+        <g transform="rotate(60 110 100)"><line x1="110" y1="48" x2="110" y2="26"/><path d="M106 30 L110 22 L114 30 Z"/></g>
+        <g transform="rotate(120 110 100)"><line x1="110" y1="48" x2="110" y2="26"/><path d="M106 30 L110 22 L114 30 Z"/></g>
+        <g transform="rotate(180 110 100)"><line x1="110" y1="48" x2="110" y2="26"/><path d="M106 30 L110 22 L114 30 Z"/></g>
+        <g transform="rotate(240 110 100)"><line x1="110" y1="48" x2="110" y2="26"/><path d="M106 30 L110 22 L114 30 Z"/></g>
+        <g transform="rotate(300 110 100)"><line x1="110" y1="48" x2="110" y2="26"/><path d="M106 30 L110 22 L114 30 Z"/></g>
+      </g>
+      <text x="110" y="196" text-anchor="middle" font-family="IBM Plex Sans Condensed, sans-serif" font-size="10" fill="var(--muted)">bhapañjara</text>
+    </svg>
+    <figcaption><span class="tag sphere">Jyotiṣa</span><br><span class="skt">sarvato vṛttaḥ</span>: "up" is outward everywhere, like the florets of a kadamba head.</figcaption>
+  </figure>
+  <figure>
+    <svg viewBox="0 0 220 200" role="img" aria-label="Flat disc of concentric dvīpas and oceans with Meru at the centre">
+      <g fill="none" stroke="var(--disc)">
+        <ellipse cx="110" cy="112" rx="100" ry="34" stroke-width="2"/>
+        <ellipse cx="110" cy="112" rx="80" ry="27" stroke-width="1" opacity=".75"/>
+        <ellipse cx="110" cy="112" rx="60" ry="20" stroke-width="1" opacity=".75"/>
+        <ellipse cx="110" cy="112" rx="40" ry="13" stroke-width="1" opacity=".75"/>
+        <ellipse cx="110" cy="112" rx="20" ry="7" stroke-width="1.4"/>
+      </g>
+      <path d="M102 112 L106 70 L114 70 L118 112 Z" fill="var(--brass)" opacity=".85"/>
+      <ellipse cx="110" cy="70" rx="11" ry="3.5" fill="var(--brass)"/>
+      <text x="110" y="60" text-anchor="middle" font-family="IBM Plex Sans Condensed, sans-serif" font-size="10" fill="var(--muted)">Meru</text>
+      <text x="110" y="168" text-anchor="middle" font-family="IBM Plex Sans Condensed, sans-serif" font-size="10" fill="var(--muted)">Lokāloka rim</text>
+    </svg>
+    <figcaption><span class="tag disc">Bhāgavata</span><br><span class="skt">samavartulo yathā puṣkara-patram</span>: round and flat like a lotus leaf, with Meru as its pericarp.</figcaption>
+  </figure>
+</div>
+
+<section>
+  <h2>1. Jyotiṣa: an explicit, argued sphere</h2>
+  <div class="cite">
+    <h3>Āryabhaṭīya, Golapāda 6–7</h3>
+    <blockquote>
+      <span class="v">vṛttabhapañjaramadhye kakṣyāpariveṣṭitaḥ khamadhyagataḥ |</span>
+      <span class="v">mṛjjalaśikhivāyumayo bhūgolaḥ sarvato vṛttaḥ || 6 ||</span>
+      <span class="v">yadvat kadambapuṣpagranthiḥ pracitaḥ samantataḥ kusumaiḥ |</span>
+      <span class="v">tadvad dhi sarvasattvair jalajaiḥ sthalajaiś ca bhūgolaḥ || 7 ||</span>
+    </blockquote>
+    <span class="loc">8_jyot/aryabhata_aryabhatiya.txt:8092</span>
+  </div>
+  <div class="cite">
+    <h3>The commentary (Shukla ed., INSA 1976)</h3>
+    <p class="note">The e-text merges Bhāskara I and Someśvara. The running commentary is taken here as Bhāskara I's; check against the print.</p>
+    <ul>
+      <li><strong>Rejects other shapes.</strong> <span class="skt">bhuvaṃ tāvad anye śakaṭākārāṃ darpaṇavṛttākārāṃ ca manyante | naitad evam.</span> Planets only look like discs because they are far away. <span class="loc">:7850</span></li>
+      <li><strong>Up and down are relative.</strong> <span class="skt">sarveṣām asmadādīnāṃ bhūr adhaḥ, upari cākāśaḥ</span>, with the kadamba verse quoted. <span class="loc">:6745</span></li>
+      <li><strong>Curvature.</strong> <span class="skt">iyaṃ ca dharitrī golākārā paṭhyate … na caitāvatyā bhuvaḥ śakyate samīkaraṇaṃ kartum.</span> The flat shadow-triangle fails on a curved surface of this size. <span class="loc">:2844</span></li>
+      <li><strong>Against Purāṇic geography.</strong> Rejects the dvīpa-doubling scheme and the 1000-yojana Gaṅgādvāra–Kumārī distance against measured distances (Laṅkā–Ujjayinī 200). Large Purāṇic figures are answered <span class="skt">golākāratvād bhuvaḥ</span>. <span class="loc">:887</span></li>
+      <li><strong>Rotation.</strong> The comment on Gola 9 first reads a rotating earth, then rejects it (oceans would flood, birds could not return to their nests) and reinterprets the verse. Which commentator wrote this layer is not settled. <span class="loc">:8164</span></li>
+    </ul>
+  </div>
+  <div class="cite">
+    <h3>Sūryasiddhānta 12</h3>
+    <ul>
+      <li>12.32: <span class="skt">madhye samantād aṇḍasya bhūgolo vyomni tiṣṭhati</span>, held by Brahmā's <span class="skt">dhāraṇātmikā śakti</span>.</li>
+      <li>12.34–35: <span class="skt">bhūgolamadhyago merur ubhayatra vinirgataḥ</span>. Meru runs through the globe to both poles, gods above and asuras below. Purāṇic Meru fused into the sphere.</li>
+      <li>12.53–54: <span class="skt">sarvatraiva mahīgole svasthānam upari sthitam … alpakāyatayā lokāḥ … paśyanti vṛttām apy etāṃ cakrākārāṃ vasundharām.</span> The round earth looks like a flat disc because we are small.</li>
+    </ul>
+    <span class="loc">8_jyot/unknown_suryasiddhanta.txt:1311–1378</span>
+  </div>
+</section>
+
+<section>
+  <h2>2. Purāṇic bhūgola: the disc</h2>
+  <ul>
+    <li><strong>Bhāgavata 5.16.4</strong> opens its cosmography with <span class="skt">bhū-golaka-viśeṣaṃ … vyākhyāsyāmaḥ</span>. Then: Jambūdvīpa <span class="skt">samavartulo yathā puṣkara-patram</span> (5.16.5); Meru the pericarp of the earth-lotus (5.16.7); the golden land beyond <span class="skt">ādarśa-talopamā</span> (5.20.35); Lokāloka a quarter <span class="skt">pañcāśat-koṭi-gaṇitasya bhū-golasya</span> (5.20.38).</li>
+    <li><strong>Devībhāgavata</strong> copies it: <span class="skt">karṇikārūpa evāyaṃ bhūgolakamalasya ca</span>. <span class="loc">3_purana/unknown_devibhagavatapurana.txt:27377</span></li>
+    <li><strong>Nṛsiṃhapurāṇa 30</strong> (<span class="skt">bhūgolakathana</span>) and <strong>Nāradapurāṇa 1.3</strong> use <span class="skt">bhūgola</span> as the label for dvīpa cosmography. Jīva Gosvāmin calls BhP 5.16 the <span class="skt">bhūgola-praśna</span>.</li>
+    <li>The word does not occur in Viṣṇu, Vāyu or Matsya here. A guess, not verified: the Bhāgavata took a Jyotiṣa term for its own disc.</li>
+    <li><strong>Partial absorption:</strong> Vahnipurāṇa explains night as the shadow of the <span class="skt">sumeru-bhūgolaka</span> and eclipses by <span class="skt">golakacchāyā</span>. <span class="loc">3_purana/unknown_vahnipurana.txt:2059</span></li>
+    <li><strong>Kāvya mixes the images.</strong> Mālatīmādhava 5.22 <span class="skt">namad-bhūgola</span> presses on the cosmic tortoise; commentators gloss <span class="skt">bhūmipiṇḍa</span>, <span class="skt">avanicakra</span>, <span class="skt">bhuvaḥ saṃsthānam</span>. Gītagovinda 1.16: Varāha <span class="skt">bhūgolam udbibhrate</span>.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>3. The globe outside Jyotiṣa</h2>
+  <div class="cite">
+    <h3>Mīmāṃsā</h3>
+    <ul>
+      <li><strong>Kumārila, Tantravārttika</strong> on <span class="skt">uttānā vai devagavā vahanti</span>: <span class="skt">pṛthivīgolaka-trailokya-bhramaṇādinā vā purāṇoktena dṛṣṭivaśād yathaiva vayam upari devān paśyāma …</span> Our cows look upside-down to the gods. He ascribes the globe to <em>purāṇa</em>. <span class="loc">3_phil/mimamsa/kumarila_tantravarttika.txt:5677</span></li>
+      <li><strong>Ajitā</strong> on the passage: <span class="skt">nordhvādhobhāvo niyataḥ kintu ya eva yasyādhāraḥ tad eva tasyādhaḥ</span>. <span class="loc">4_rellit/saiva/agama/unknown_ajita_adhyaya-1_iast.txt:12799 (TV with the Ajitā)</span></li>
+      <li><strong>Śabara</strong> on MS 6.7.3: <span class="skt">mṛdārabdhaṃ dravyāntaraṃ pṛthivīgolakam, na kṣetramātram</span>. The whole earth as one substance; nothing about shape.</li>
+    </ul>
+  </div>
+  <div class="cite">
+    <h3>Nyāya-Vaiśeṣika: the largest earthy whole</h3>
+    <ul>
+      <li>Udayana: <span class="skt">ā paramāṇor ā ca bhūgolakāt</span>. <span class="loc">3_phil/vaisesik/udayana_kiranavali_dravya.txt:173</span></li>
+      <li>Śrīdhara: darkness as a substance would show its parts <span class="skt">mahāndhakāre ca bhūgolakasyeva</span>; the earth-globe shaken by adṛṣṭa. <span class="loc">3_phil/vaisesik/sridhara_nyayakandali_jetly-ed.txt:130</span></li>
+      <li>Gaṅgeśa's <span class="skt">bhūgolakasantāna</span>; Vyāsatīrtha's <span class="skt">dvyaṇukādibhūgolakaparyanta</span>; Jayatīrtha.</li>
+      <li>Bhaṭṭoji calls Udayana's <span class="skt">ā ca bhūgolakam</span> <span class="skt">prāmādika</span>; read <span class="skt">ā bhūgolakāt</span>. <span class="loc">1_gram/bhattoji-diksita_praudhamanorama.txt:2034</span></li>
+    </ul>
+  </div>
+  <div class="cite">
+    <h3>Mokṣopāya / Yogavāsiṣṭha</h3>
+    <blockquote><span class="v">dharāgolakam antaḥsthasurāsuragaṇāspadam |</span><span class="v">veṣṭyate dhiṣṇyacakreṇa pakvākṣoṭam iva tvacā ||</span></blockquote>
+    <span class="loc">Mokṣopāya 1.25.34 · 3_phil/vedanta/unknown_moksopaya.txt:6557</span>
+    <p>In YV Nirvāṇa-u. 127, the <span class="skt">bhūgolanirṇaya</span>, Rāma asks <span class="skt">kathaṃ bhūgolakaṃ sthitam</span>. Ānandabodhendra on v. 8 lists the vādins' answers:</p>
+    <ol class="views">
+      <li>It falls forever through endless space, too large for us to notice; the star-wheel falls with it.</li>
+      <li>It floats on an ocean like a boat, sinks at pralaya and rises like a gourd.</li>
+      <li>Water all round; the wind in its hollow worlds keeps it rising.</li>
+      <li>Only space all round; it always falls south, "down" from the gods on Meru.</li>
+      <li>The āsura view: pātāla is up, so it falls north.</li>
+      <li>The star-wheel stands still and the earth turns, as trees seem to move for people in a boat.</li>
+      <li>Every side is "down" for those standing on it, so there is no direction to fall and it stays put.</li>
+    </ol>
+    <span class="loc">3_phil/yogavasistha/unknown_yogavasistha_khanda-2_org.txt:69539–69715</span>
+    <ul>
+      <li>Nirvāṇa-u. 131.7–17: beings move over it like ants on a ball (<span class="skt">kanduka</span>); the princes looking for the end of the earth keep circling.</li>
+      <li>Nirvāṇa-u. 205.14: antipodal peoples, <span class="skt">ūrdhvakhurā lambamānavanācalāḥ</span>.</li>
+      <li>Utpatti 30.12: ants on a <span class="skt">vartulaloṣṭaka</span>; the commentator notes this is <span class="skt">jyotiḥśāstrakṛtām api saṃmataḥ</span>. <span class="loc">unknown_yogavasistha_utpattiprakarana.txt:9727</span></li>
+    </ul>
+  </div>
+  <div class="cite">
+    <h3>Kashmir Śaivism</h3>
+    <ul>
+      <li><strong>Abhinavagupta, ĪPVV:</strong> the proud reasoner is like a fool who puts the pole star over the centre of the whole earth-globe as he imagines it from his own courtyard (<span class="skt">svagṛhaprāṅgaṇamadhyakalpitaniḥśeṣabhūgolakamadhyadhruvakasthānavat</span>). <span class="loc">4_rellit/saiva/trika/abhinavagupta_isvarapratyabhijnavivrtivimarsini_vol-3_m00022.txt:2412</span></li>
+      <li><strong>Kṣemarāja on Svacchanda 10.511:</strong> Jyotiṣa's account of the stars <span class="skt">bahirbhūgolam</span> and the sizes of sun and earth holds for its own purpose, reading karma (quoting Laghujātaka 1.3). The Āgama's account is the real one, so <span class="skt">na tena saha saṃvādavisaṃvādādicarcā kāryā</span>. <span class="loc">4_rellit/saiva/unknown_svacchandatantra_w_ksemaraja-uddyota_m00091.txt:16378</span></li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>Gaps</h2>
+  <ul>
+    <li>Not in the corpus: Brahmagupta's Golādhyāya (only the mathematical chapters), Lalla, Pañcasiddhāntikā, Siddhāntaśiromaṇi Golādhyāya. These hold the main polemics against Jaina and Purāṇic cosmology.</li>
+    <li>The "cart-shaped / mirror-disc" party in the Āryabhaṭīya commentary is unidentified.</li>
+    <li>Bhāgavata commentators on 5.16–20 not yet checked.</li>
+  </ul>
+</section>
+
+<footer>
+  <span>Method: regex over <code>1_sanskr</code> for earth-word + <code>gola(ka)</code> (about 230 hits, hyphenated forms included), plus proximity searches for <span class="skt">golākāra, kadamba, ādarśa/darpaṇa, kūrmapṛṣṭha</span> and Jyotiṣa near earth-shape terms.</span>
+  <span>Full notes: <code>research/bhugolaka/results/bhugolaka/bhugolaka_shape_of_earth.md</code>. Line numbers refer to the Mac copy of the corpus.</span>
+</footer>
+</main>
