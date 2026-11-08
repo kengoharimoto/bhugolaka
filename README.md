@@ -12,6 +12,10 @@ Mokṣopāya/Yogavāsiṣṭha and Kashmir Śaivism (Abhinavagupta, Kṣemarāja
 **Start here:** `results/bhugolaka/bhugolaka_shape_of_earth.md` (the report). `results/bhugolaka/bhugolaka.html` is the
 same report as a page and is kept in step with it.
 
+**Public repository:** https://github.com/kengoharimoto/bhugolaka. It leaves out the OCR of the 1965 Ahmedabad
+edition and the KWIC dump taken from it (the edition may still be in copyright); the report cites that edition by PDF
+page, and the scan is on archive.org. Licence: CC BY 4.0 for the report and notes, MIT for the scripts (`LICENSE.md`).
+
 ## What the study found
 
 1. **Jyotiṣa: an argued sphere** (report §1). Read: Āryabhaṭīya Gola 6–7 with Bhāskara I; Sūryasiddhānta 12;
@@ -49,9 +53,10 @@ same report as a page and is kept in step with it.
 | `results/bhugolaka/bhugolaka.html` | the report as a page |
 | `scripts/kwic.py` | regex KWIC over `1_sanskr/**/*.txt`; deduplicates near-identical contexts |
 | `scripts/prox.py` | proximity search: hits for pattern A with pattern B within a set distance |
-| `data/bhp5_16-20_commentaries_ks1965_vision_{deva,iast}.txt` | Google Vision OCR of the Bhāgavata Skandha 5 commentaries, PDF pp. 318–472, Devanāgarī and IAST, page-tagged `=== PDFPAGE n ===` |
-| `data/bhp5_21-22_commentaries_ks1965_vision_{deva,iast}.txt` | the same for PDF pp. 473–514 |
-| `data/kwic_bhp5_commentaries.txt` | KWIC over the 5.16–20 OCR, tagged by page and search term (*gola*, *vartula*, *kadamba*, *adhomukha* …) |
+| `data/bhp5_16-20_commentaries_ks1965_vision_{deva,iast}.txt` | Google Vision OCR of the Bhāgavata Skandha 5 commentaries, PDF pp. 318–472, Devanāgarī and IAST, page-tagged `=== PDFPAGE n ===` (not in the public repository) |
+| `data/bhp5_21-22_commentaries_ks1965_vision_{deva,iast}.txt` | the same for PDF pp. 473–514 (not in the public repository) |
+| `data/kwic_bhp5_commentaries.txt` | KWIC over the 5.16–20 OCR, tagged by page and search term (*gola*, *vartula*, *kadamba*, *adhomukha* …) (not in the public repository) |
+| `LICENSE.md`, `LICENSE-CC-BY-4.0.txt` | licence: CC BY 4.0 for the report and notes, MIT for the scripts |
 | `data/kwic_nonjyot.txt` | *bhūgola(ka)* and its synonyms outside `8_jyot/` |
 | `data/kwic_hyph.txt` | second pass for hyphenated forms (*bhū-gola*, *pṛthivī-golaka* …) |
 | `data/kwic_yv.txt` | the Yogavāsiṣṭha passages and their parallels |
